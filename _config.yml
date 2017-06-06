@@ -1,0 +1,26 @@
+# top level stuff you probably don't need to touch
+
+
+
+
+# edit here to achieve your personal greatness
+url: http://taki.mektekbd.com
+baseurl: http://taki.mektekbd.com/
+title: Takiuddin Ahmed
+author: Takiuddin Ahmed
+description: Personal blog and resume
+avatar: taki.jpg
+email: takiuddinahmed@gmail.com
+phone: +8801723100925
+facebook: taki.sarwar
+github: takiuddinahmed # username
+twitter: takiuddinahmed
+linkedin: takiuddin-ahmed-871607b5
+stackoverflow: users/6152835/takiuddin-ahmed   #e.g: users/2735833/proton1h1
+#Comment out if you don't want disqus 
+disqus: MekTek
+google_analytics: UA-69391421-1
+
+
+# needed for travis-ci build
+exclude: [vendor]
